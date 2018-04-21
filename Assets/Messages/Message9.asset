@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d4da677f9ec4c808a658f38460cf366, type: 3}
+  m_Name: Message9
+  m_EditorClassIdentifier: 
+  SendTime: 0.1
+  AnswerTime: 10
+  Message:
+    Text: 'THIS GIRL *sends the same zoomed in picture with some kind of wierd creature
+      in the background* Don''t pretend like you dont know who she is. '
+    Options:
+    - "How do you even know that it`s a \u201Cshe\u201D? "
+  NextMessages:
+  - {fileID: 11400000, guid: c21c8fbab05012747ae33956fd33bf08, type: 2}

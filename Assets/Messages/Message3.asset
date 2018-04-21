@@ -14,7 +14,8 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: Gizu, destroyer of the planets, don`t you "busy" at me? What are you doing?
+    Text: Busy? Huh? Where are you?
     Options:
-    - Hon, I am killing alien intruders, doing my job!
-  NextMessages: []
+    - Trying to conqure the world, sweety. Doing my job.
+  NextMessages:
+  - {fileID: 11400000, guid: 0e05569a8294fcc4ebe28ccb515e8d28, type: 2}

@@ -6,7 +6,7 @@ public class MobileOverlayControl : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Tab))
+        if (!MobilePhone.PlayerHealth.isDead && Input.GetKeyDown(KeyCode.Tab))
         {
             MobilePhone.gameObject.SetActive(!MobilePhone.gameObject.activeSelf);
         }

@@ -1,6 +1,8 @@
 ﻿using System;
+using CompleteProject;
 using TMPro;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class MobilePhone : MonoBehaviour
 {
@@ -15,21 +17,35 @@ public class MobilePhone : MonoBehaviour
     public event Action<string> MessageSent;
     public event Action<string> NewMessage;
 
+    public PlayerHealth PlayerHealth;
+
     private void OnEnable()
     {
         InputField.Select();
         InputField.ActivateInputField();
+        EventSystem.current.SetSelectedGameObject(InputField.gameObject);
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+    }
+
+    private void OnDisable()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     public void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Return))
+        if (!PlayerHealth.isDead)
         {
-            var instance = Instantiate(MyMessagePrefab, Root, false);
-            instance.Message.text = InputField.text;
-            MessageSent?.Invoke(InputField.text);
+            if (Input.GetKeyDown(KeyCode.Return))
+            {
+                var instance = Instantiate(MyMessagePrefab, Root, false);
+                instance.Message.text = InputField.text;
+                MessageSent?.Invoke(InputField.text);
 
-            InputField.text = "";
+                InputField.text = "";
+            }
         }
     }
 

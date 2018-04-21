@@ -1,0 +1,402 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: RobotBoyRollSprite
+  m_EditorClassIdentifier: 
+  hashCode: -1587417276
+  material: {fileID: 21937988639529382}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 886.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 5
+    name: Batman
+    hashCode: -1597319339
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300000, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 1
+    x: 137.5
+    y: 886.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll01
+    hashCode: -1297326132
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300002, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 2
+    x: 275
+    y: 886.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll02
+    hashCode: -1297326129
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300004, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 3
+    x: 412.5
+    y: 886.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll03
+    hashCode: -1297326130
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300006, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 4
+    x: 550
+    y: 886.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll04
+    hashCode: -1297326135
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300008, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 5
+    x: 687.5
+    y: 886.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll05
+    hashCode: -1297326136
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300010, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 6
+    x: 825
+    y: 886.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll06
+    hashCode: -1297326133
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300012, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 7
+    x: 822
+    y: 750
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll13
+    hashCode: -1297326097
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300026, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 8
+    x: 0
+    y: 749
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll07
+    hashCode: -1297326134
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300014, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 9
+    x: 137.5
+    y: 749
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll08
+    hashCode: -1297326139
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300016, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 10
+    x: 275
+    y: 749
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll09
+    hashCode: -1297326140
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300018, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 11
+    x: 412.5
+    y: 749
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll10
+    hashCode: -1297326100
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300020, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 12
+    x: 550
+    y: 749
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll11
+    hashCode: -1297326099
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300022, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 13
+    x: 687.5
+    y: 749
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll12
+    hashCode: -1297326098
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300024, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 14
+    x: 0
+    y: 611.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll14
+    hashCode: -1297326104
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300028, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 15
+    x: 137.5
+    y: 611.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll15
+    hashCode: -1297326103
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300030, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 16
+    x: 275
+    y: 611.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll16
+    hashCode: -1297326102
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300032, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 17
+    x: 412.5
+    y: 611.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll17
+    hashCode: -1297326101
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300034, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 18
+    x: 550
+    y: 611.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll18
+    hashCode: -1297326108
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300036, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 19
+    x: 687.5
+    y: 611.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll19
+    hashCode: -1297326107
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300038, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 20
+    x: 825
+    y: 611.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll20
+    hashCode: -1297326065
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300040, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 21
+    x: 0
+    y: 474
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll21
+    hashCode: -1297326066
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300042, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 22
+    x: 137.5
+    y: 474
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll22
+    hashCode: -1297326067
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300044, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 23
+    x: 275
+    y: 474
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: RobotBoyRoll23
+    hashCode: -1297326068
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300046, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  - id: 24
+    x: 0
+    y: 886.5
+    width: 137.5
+    height: 137.5
+    xOffset: -68.75
+    yOffset: 68.75
+    xAdvance: 0
+    scale: 0
+    name: Batman
+    hashCode: -1597319339
+    unicode: 0
+    pivot: {x: -68.75, y: 68.75}
+    sprite: {fileID: 21300000, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+  fallbackSpriteAssets: []
+--- !u!21 &21937988639529382
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: fc67a9002ed4034419f91d0d85bd6b24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
