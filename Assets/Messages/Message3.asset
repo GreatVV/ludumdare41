@@ -9,12 +9,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2d4da677f9ec4c808a658f38460cf366, type: 3}
-  m_Name: Message2
+  m_Name: Message3
   m_EditorClassIdentifier: 
-  SendTime: 5
-  AnswerTime: 15
+  SendTime: 0.1
+  AnswerTime: 10
   Message:
-    Text: We are out of cow heads, can you bring some?
+    Text: Gizu, destroyer of the planets, don`t you "busy" at me? What are you doing?
     Options:
-    - I am busy at the moment
+    - Hon, I am killing alien intruders, doing my job!
   NextMessages: []

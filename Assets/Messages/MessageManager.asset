@@ -11,4 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21e36d20249446f1ae54f808bcd0fdf5, type: 3}
   m_Name: MessageManager
   m_EditorClassIdentifier: 
-  Messages: []
+  FirstMessage: {fileID: 11400000, guid: bd63f61a07018a54f8d79aad34a42676, type: 2}
+  Messages:
+  - {fileID: 11400000, guid: bd63f61a07018a54f8d79aad34a42676, type: 2}
+  - {fileID: 11400000, guid: 49ae8dd1e6ee45a4687b823c404fa70f, type: 2}
+  - {fileID: 11400000, guid: 0930198230f44544094d4d7f7fb7746f, type: 2}
+  AngryMessages:
+  - R U IGNROING ME?
+  - WHY U DON'T ANSWER ME?
+  - I WILL DRINK ALL THE SMOOTHIES!

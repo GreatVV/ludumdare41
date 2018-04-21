@@ -11,10 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d4da677f9ec4c808a658f38460cf366, type: 3}
   m_Name: Message1
   m_EditorClassIdentifier: 
-  SendTime: 5
+  SendTime: 1
   AnswerTime: 15
   Message:
     Text: Hey hon!
     Options:
     - 'Hey sweety '
-  NextMessages: []
+  NextMessages:
+  - {fileID: 11400000, guid: 49ae8dd1e6ee45a4687b823c404fa70f, type: 2}
