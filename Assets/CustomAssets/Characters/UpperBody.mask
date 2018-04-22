@@ -5,6 +5,524 @@ AvatarMask:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Avatar Mask
+  m_Name: UpperBody
   m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-  m_Elements: []
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Root
+    m_Weight: 0
+  - m_Path: Root/Hips
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/spine_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/head_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_1_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_1_1/tentacle_L4_1_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_1_1/tentacle_L4_1_2/tentacle_L4_1_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_1_1/tentacle_L4_1_2/tentacle_L4_1_3/tentacle_L4_1_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_1_1/tentacle_L4_1_2/tentacle_L4_1_3/tentacle_L4_1_4/tentacle_L4_1_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_2_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_2_1/tentacle_L4_2_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_2_1/tentacle_L4_2_2/tentacle_L4_2_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_2_1/tentacle_L4_2_2/tentacle_L4_2_3/tentacle_L4_2_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_2_1/tentacle_L4_2_2/tentacle_L4_2_3/tentacle_L4_2_4/tentacle_L4_2_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_3_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_3_1/tentacle_L4_3_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_3_1/tentacle_L4_3_2/tentacle_L4_3_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_3_1/tentacle_L4_3_2/tentacle_L4_3_3/tentacle_L4_3_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_3_1/tentacle_L4_3_2/tentacle_L4_3_3/tentacle_L4_3_4/tentacle_L4_3_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_3_1/tentacle_L4_3_2/tentacle_L4_3_3/tentacle_L4_3_4/tentacle_L4_3_5/tentacle_L4_3_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_4_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_4_1/tentacle_L4_4_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_4_1/tentacle_L4_4_2/tentacle_L4_4_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_4_1/tentacle_L4_4_2/tentacle_L4_4_3/tentacle_L4_4_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_4_1/tentacle_L4_4_2/tentacle_L4_4_3/tentacle_L4_4_4/tentacle_L4_4_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_4_1/tentacle_L4_4_2/tentacle_L4_4_3/tentacle_L4_4_4/tentacle_L4_4_5/tentacle_L4_4_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_5_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_5_1/tentacle_L4_5_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_5_1/tentacle_L4_5_2/tentacle_L4_5_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_5_1/tentacle_L4_5_2/tentacle_L4_5_3/tentacle_L4_5_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_5_1/tentacle_L4_5_2/tentacle_L4_5_3/tentacle_L4_5_4/tentacle_L4_5_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_6_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_6_1/tentacle_L4_6_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_6_1/tentacle_L4_6_2/tentacle_L4_6_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_6_1/tentacle_L4_6_2/tentacle_L4_6_3/tentacle_L4_6_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/heck_1/head_1/tentacle_L4_6_1/tentacle_L4_6_2/tentacle_L4_6_3/tentacle_L4_6_4/tentacle_L4_6_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3/tentacle_L3_1_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3/tentacle_L3_1_4/tentacle_L3_1_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3/tentacle_L3_1_4/tentacle_L3_1_5/tentacle_L3_1_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3/tentacle_L3_1_4/tentacle_L3_1_5/tentacle_L3_1_6/tentacle_L3_1_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3/tentacle_L3_1_4/tentacle_L3_1_5/tentacle_L3_1_6/tentacle_L3_1_7/tentacle_L3_1_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3/tentacle_L3_1_4/tentacle_L3_1_5/tentacle_L3_1_6/tentacle_L3_1_7/tentacle_L3_1_8/tentacle_L3_1_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3/tentacle_L3_1_4/tentacle_L3_1_5/tentacle_L3_1_6/tentacle_L3_1_7/tentacle_L3_1_8/tentacle_L3_1_9/tentacle_L3_1_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_1_1/tentacle_L3_1_2/tentacle_L3_1_3/tentacle_L3_1_4/tentacle_L3_1_5/tentacle_L3_1_6/tentacle_L3_1_7/tentacle_L3_1_8/tentacle_L3_1_9/tentacle_L3_1_10/tentacle_L3_1_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7/tentacle_L3_2_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7/tentacle_L3_2_8/tentacle_L3_2_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7/tentacle_L3_2_8/tentacle_L3_2_9/tentacle_L3_2_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7/tentacle_L3_2_8/tentacle_L3_2_9/tentacle_L3_2_10/tentacle_L3_2_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7/tentacle_L3_2_8/tentacle_L3_2_9/tentacle_L3_2_10/tentacle_L3_2_11/tentacle_L3_2_12
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7/tentacle_L3_2_8/tentacle_L3_2_9/tentacle_L3_2_10/tentacle_L3_2_11/tentacle_L3_2_12/tentacle_L3_2_13
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7/tentacle_L3_2_8/tentacle_L3_2_9/tentacle_L3_2_10/tentacle_L3_2_11/tentacle_L3_2_12/tentacle_L3_2_13/tentacle_L3_2_14
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_2_1/tentacle_L3_2_2/tentacle_L3_2_3/tentacle_L3_2_4/tentacle_L3_2_5/tentacle_L3_2_6/tentacle_L3_2_7/tentacle_L3_2_8/tentacle_L3_2_9/tentacle_L3_2_10/tentacle_L3_2_11/tentacle_L3_2_12/tentacle_L3_2_13/tentacle_L3_2_14/tentacle_L3_2_15
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3/tentacle_L3_3_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3/tentacle_L3_3_4/tentacle_L3_3_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3/tentacle_L3_3_4/tentacle_L3_3_5/tentacle_L3_3_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3/tentacle_L3_3_4/tentacle_L3_3_5/tentacle_L3_3_6/tentacle_L3_3_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3/tentacle_L3_3_4/tentacle_L3_3_5/tentacle_L3_3_6/tentacle_L3_3_7/tentacle_L3_3_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3/tentacle_L3_3_4/tentacle_L3_3_5/tentacle_L3_3_6/tentacle_L3_3_7/tentacle_L3_3_8/tentacle_L3_3_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3/tentacle_L3_3_4/tentacle_L3_3_5/tentacle_L3_3_6/tentacle_L3_3_7/tentacle_L3_3_8/tentacle_L3_3_9/tentacle_L3_3_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_3_1/tentacle_L3_3_2/tentacle_L3_3_3/tentacle_L3_3_4/tentacle_L3_3_5/tentacle_L3_3_6/tentacle_L3_3_7/tentacle_L3_3_8/tentacle_L3_3_9/tentacle_L3_3_10/tentacle_L3_3_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3/tentacle_L3_4_1_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3/tentacle_L3_4_1_4/tentacle_L3_4_1_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3/tentacle_L3_4_1_4/tentacle_L3_4_1_5/tentacle_L3_4_1_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3/tentacle_L3_4_1_4/tentacle_L3_4_1_5/tentacle_L3_4_1_6/tentacle_L3_4_1_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3/tentacle_L3_4_1_4/tentacle_L3_4_1_5/tentacle_L3_4_1_6/tentacle_L3_4_1_7/tentacle_L3_4_1_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3/tentacle_L3_4_1_4/tentacle_L3_4_1_5/tentacle_L3_4_1_6/tentacle_L3_4_1_7/tentacle_L3_4_1_8/tentacle_L3_4_1_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3/tentacle_L3_4_1_4/tentacle_L3_4_1_5/tentacle_L3_4_1_6/tentacle_L3_4_1_7/tentacle_L3_4_1_8/tentacle_L3_4_1_9/tentacle_L3_4_1_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_4_1/tentacle_L3_4_1_2/tentacle_L3_4_1_3/tentacle_L3_4_1_4/tentacle_L3_4_1_5/tentacle_L3_4_1_6/tentacle_L3_4_1_7/tentacle_L3_4_1_8/tentacle_L3_4_1_9/tentacle_L3_4_1_10/tentacle_L3_4_1_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7/tentacle_L3_5_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7/tentacle_L3_5_8/tentacle_L3_5_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7/tentacle_L3_5_8/tentacle_L3_5_9/tentacle_L3_5_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7/tentacle_L3_5_8/tentacle_L3_5_9/tentacle_L3_5_10/tentacle_L3_5_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7/tentacle_L3_5_8/tentacle_L3_5_9/tentacle_L3_5_10/tentacle_L3_5_11/tentacle_L3_5_12
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7/tentacle_L3_5_8/tentacle_L3_5_9/tentacle_L3_5_10/tentacle_L3_5_11/tentacle_L3_5_12/tentacle_L3_5_13
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7/tentacle_L3_5_8/tentacle_L3_5_9/tentacle_L3_5_10/tentacle_L3_5_11/tentacle_L3_5_12/tentacle_L3_5_13/tentacle_L3_5_14
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_5_1/tentacle_L3_5_2/tentacle_L3_5_3/tentacle_L3_5_4/tentacle_L3_5_5/tentacle_L3_5_6/tentacle_L3_5_7/tentacle_L3_5_8/tentacle_L3_5_9/tentacle_L3_5_10/tentacle_L3_5_11/tentacle_L3_5_12/tentacle_L3_5_13/tentacle_L3_5_14/tentacle_L3_5_15
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3/tentacle_L3_6_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3/tentacle_L3_6_4/tentacle_L3_6_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3/tentacle_L3_6_4/tentacle_L3_6_5/tentacle_L3_6_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3/tentacle_L3_6_4/tentacle_L3_6_5/tentacle_L3_6_6/tentacle_L3_6_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3/tentacle_L3_6_4/tentacle_L3_6_5/tentacle_L3_6_6/tentacle_L3_6_7/tentacle_L3_6_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3/tentacle_L3_6_4/tentacle_L3_6_5/tentacle_L3_6_6/tentacle_L3_6_7/tentacle_L3_6_8/tentacle_L3_6_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3/tentacle_L3_6_4/tentacle_L3_6_5/tentacle_L3_6_6/tentacle_L3_6_7/tentacle_L3_6_8/tentacle_L3_6_9/tentacle_L3_6_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/spine_3/tentacle_L3_6_1/tentacle_L3_6_2/tentacle_L3_6_3/tentacle_L3_6_4/tentacle_L3_6_5/tentacle_L3_6_6/tentacle_L3_6_7/tentacle_L3_6_8/tentacle_L3_6_9/tentacle_L3_6_10/tentacle_L3_6_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2/tentacle_L2_1_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2/tentacle_L2_1_3/tentacle_L2_1_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2/tentacle_L2_1_3/tentacle_L2_1_4/tentacle_L2_1_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2/tentacle_L2_1_3/tentacle_L2_1_4/tentacle_L2_1_5/tentacle_L2_1_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2/tentacle_L2_1_3/tentacle_L2_1_4/tentacle_L2_1_5/tentacle_L2_1_6/tentacle_L2_1_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2/tentacle_L2_1_3/tentacle_L2_1_4/tentacle_L2_1_5/tentacle_L2_1_6/tentacle_L2_1_7/tentacle_L2_1_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2/tentacle_L2_1_3/tentacle_L2_1_4/tentacle_L2_1_5/tentacle_L2_1_6/tentacle_L2_1_7/tentacle_L2_1_8/tentacle_L2_1_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_1_1/tentacle_L2_1_2/tentacle_L2_1_3/tentacle_L2_1_4/tentacle_L2_1_5/tentacle_L2_1_6/tentacle_L2_1_7/tentacle_L2_1_8/tentacle_L2_1_9/tentacle_L2_1_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3/tentacle_L2_2_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3/tentacle_L2_2_4/tentacle_L2_2_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3/tentacle_L2_2_4/tentacle_L2_2_5/tentacle_L2_2_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3/tentacle_L2_2_4/tentacle_L2_2_5/tentacle_L2_2_6/tentacle_L2_2_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3/tentacle_L2_2_4/tentacle_L2_2_5/tentacle_L2_2_6/tentacle_L2_2_7/tentacle_L2_2_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3/tentacle_L2_2_4/tentacle_L2_2_5/tentacle_L2_2_6/tentacle_L2_2_7/tentacle_L2_2_8/tentacle_L2_2_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3/tentacle_L2_2_4/tentacle_L2_2_5/tentacle_L2_2_6/tentacle_L2_2_7/tentacle_L2_2_8/tentacle_L2_2_9/tentacle_L2_2_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_2_1/tentacle_L2_2_2/tentacle_L2_2_3/tentacle_L2_2_4/tentacle_L2_2_5/tentacle_L2_2_6/tentacle_L2_2_7/tentacle_L2_2_8/tentacle_L2_2_9/tentacle_L2_2_10/tentacle_L2_2_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2/tentacle_L2_3_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2/tentacle_L2_3_3/tentacle_L2_3_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2/tentacle_L2_3_3/tentacle_L2_3_4/tentacle_L2_3_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2/tentacle_L2_3_3/tentacle_L2_3_4/tentacle_L2_3_5/tentacle_L2_3_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2/tentacle_L2_3_3/tentacle_L2_3_4/tentacle_L2_3_5/tentacle_L2_3_6/tentacle_L2_3_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2/tentacle_L2_3_3/tentacle_L2_3_4/tentacle_L2_3_5/tentacle_L2_3_6/tentacle_L2_3_7/tentacle_L2_3_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2/tentacle_L2_3_3/tentacle_L2_3_4/tentacle_L2_3_5/tentacle_L2_3_6/tentacle_L2_3_7/tentacle_L2_3_8/tentacle_L2_3_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_3_1/tentacle_L2_3_2/tentacle_L2_3_3/tentacle_L2_3_4/tentacle_L2_3_5/tentacle_L2_3_6/tentacle_L2_3_7/tentacle_L2_3_8/tentacle_L2_3_9/tentacle_L2_3_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3/tentacle_L2_4_1_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3/tentacle_L2_4_1_4/tentacle_L2_4_1_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3/tentacle_L2_4_1_4/tentacle_L2_4_1_5/tentacle_L2_4_1_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3/tentacle_L2_4_1_4/tentacle_L2_4_1_5/tentacle_L2_4_1_6/tentacle_L2_4_1_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3/tentacle_L2_4_1_4/tentacle_L2_4_1_5/tentacle_L2_4_1_6/tentacle_L2_4_1_7/tentacle_L2_4_1_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3/tentacle_L2_4_1_4/tentacle_L2_4_1_5/tentacle_L2_4_1_6/tentacle_L2_4_1_7/tentacle_L2_4_1_8/tentacle_L2_4_1_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3/tentacle_L2_4_1_4/tentacle_L2_4_1_5/tentacle_L2_4_1_6/tentacle_L2_4_1_7/tentacle_L2_4_1_8/tentacle_L2_4_1_9/tentacle_L2_4_1_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_4_1/tentacle_L2_4_1_2/tentacle_L2_4_1_3/tentacle_L2_4_1_4/tentacle_L2_4_1_5/tentacle_L2_4_1_6/tentacle_L2_4_1_7/tentacle_L2_4_1_8/tentacle_L2_4_1_9/tentacle_L2_4_1_10/tentacle_L2_4_1_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3/tentacle_L2_5_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3/tentacle_L2_5_4/tentacle_L2_5_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3/tentacle_L2_5_4/tentacle_L2_5_5/tentacle_L2_5_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3/tentacle_L2_5_4/tentacle_L2_5_5/tentacle_L2_5_6/tentacle_L2_5_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3/tentacle_L2_5_4/tentacle_L2_5_5/tentacle_L2_5_6/tentacle_L2_5_7/tentacle_L2_5_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3/tentacle_L2_5_4/tentacle_L2_5_5/tentacle_L2_5_6/tentacle_L2_5_7/tentacle_L2_5_8/tentacle_L2_5_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3/tentacle_L2_5_4/tentacle_L2_5_5/tentacle_L2_5_6/tentacle_L2_5_7/tentacle_L2_5_8/tentacle_L2_5_9/tentacle_L2_5_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_5_1/tentacle_L2_5_2/tentacle_L2_5_3/tentacle_L2_5_4/tentacle_L2_5_5/tentacle_L2_5_6/tentacle_L2_5_7/tentacle_L2_5_8/tentacle_L2_5_9/tentacle_L2_5_10/tentacle_L2_5_11
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2/tentacle_L2_6_3
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2/tentacle_L2_6_3/tentacle_L2_6_4
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2/tentacle_L2_6_3/tentacle_L2_6_4/tentacle_L2_6_5
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2/tentacle_L2_6_3/tentacle_L2_6_4/tentacle_L2_6_5/tentacle_L2_6_6
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2/tentacle_L2_6_3/tentacle_L2_6_4/tentacle_L2_6_5/tentacle_L2_6_6/tentacle_L2_6_7
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2/tentacle_L2_6_3/tentacle_L2_6_4/tentacle_L2_6_5/tentacle_L2_6_6/tentacle_L2_6_7/tentacle_L2_6_8
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2/tentacle_L2_6_3/tentacle_L2_6_4/tentacle_L2_6_5/tentacle_L2_6_6/tentacle_L2_6_7/tentacle_L2_6_8/tentacle_L2_6_9
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/spine_2/tentacle_L2_6_1/tentacle_L2_6_2/tentacle_L2_6_3/tentacle_L2_6_4/tentacle_L2_6_5/tentacle_L2_6_6/tentacle_L2_6_7/tentacle_L2_6_8/tentacle_L2_6_9/tentacle_L2_6_10
+    m_Weight: 1
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4/tentacle_L1_1_5
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4/tentacle_L1_1_5/tentacle_L1_1_6
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4/tentacle_L1_1_5/tentacle_L1_1_6/tentacle_L1_1_7
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4/tentacle_L1_1_5/tentacle_L1_1_6/tentacle_L1_1_7/tentacle_L1_1_8
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4/tentacle_L1_1_5/tentacle_L1_1_6/tentacle_L1_1_7/tentacle_L1_1_8/tentacle_L1_1_9
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4/tentacle_L1_1_5/tentacle_L1_1_6/tentacle_L1_1_7/tentacle_L1_1_8/tentacle_L1_1_9/tentacle_L1_1_10
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4/tentacle_L1_1_5/tentacle_L1_1_6/tentacle_L1_1_7/tentacle_L1_1_8/tentacle_L1_1_9/tentacle_L1_1_10/tentacle_L1_1_11
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_1_1/tentacle_L1_1_2/tentacle_L1_1_3/tentacle_L1_1_4/tentacle_L1_1_5/tentacle_L1_1_6/tentacle_L1_1_7/tentacle_L1_1_8/tentacle_L1_1_9/tentacle_L1_1_10/tentacle_L1_1_11/tentacle_L1_1_12
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4/tentacle_L1_2_5
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4/tentacle_L1_2_5/tentacle_L1_2_6
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4/tentacle_L1_2_5/tentacle_L1_2_6/tentacle_L1_2_7
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4/tentacle_L1_2_5/tentacle_L1_2_6/tentacle_L1_2_7/tentacle_L1_2_8
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4/tentacle_L1_2_5/tentacle_L1_2_6/tentacle_L1_2_7/tentacle_L1_2_8/tentacle_L1_2_9
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4/tentacle_L1_2_5/tentacle_L1_2_6/tentacle_L1_2_7/tentacle_L1_2_8/tentacle_L1_2_9/tentacle_L1_2_10
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4/tentacle_L1_2_5/tentacle_L1_2_6/tentacle_L1_2_7/tentacle_L1_2_8/tentacle_L1_2_9/tentacle_L1_2_10/tentacle_L1_2_11
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_2_1/tentacle_L1_2_2/tentacle_L1_2_3/tentacle_L1_2_4/tentacle_L1_2_5/tentacle_L1_2_6/tentacle_L1_2_7/tentacle_L1_2_8/tentacle_L1_2_9/tentacle_L1_2_10/tentacle_L1_2_11/tentacle_L1_2_12
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4/tentacle_L1_3_5
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4/tentacle_L1_3_5/tentacle_L1_3_6
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4/tentacle_L1_3_5/tentacle_L1_3_6/tentacle_L1_3_7
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4/tentacle_L1_3_5/tentacle_L1_3_6/tentacle_L1_3_7/tentacle_L1_3_8
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4/tentacle_L1_3_5/tentacle_L1_3_6/tentacle_L1_3_7/tentacle_L1_3_8/tentacle_L1_3_9
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4/tentacle_L1_3_5/tentacle_L1_3_6/tentacle_L1_3_7/tentacle_L1_3_8/tentacle_L1_3_9/tentacle_L1_3_10
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4/tentacle_L1_3_5/tentacle_L1_3_6/tentacle_L1_3_7/tentacle_L1_3_8/tentacle_L1_3_9/tentacle_L1_3_10/tentacle_L1_3_11
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_3_1/tentacle_L1_3_2/tentacle_L1_3_3/tentacle_L1_3_4/tentacle_L1_3_5/tentacle_L1_3_6/tentacle_L1_3_7/tentacle_L1_3_8/tentacle_L1_3_9/tentacle_L1_3_10/tentacle_L1_3_11/tentacle_L1_3_12
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4/tentacle_L1_4_5
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4/tentacle_L1_4_5/tentacle_L1_4_6
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4/tentacle_L1_4_5/tentacle_L1_4_6/tentacle_L1_4_7
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4/tentacle_L1_4_5/tentacle_L1_4_6/tentacle_L1_4_7/tentacle_L1_4_8
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4/tentacle_L1_4_5/tentacle_L1_4_6/tentacle_L1_4_7/tentacle_L1_4_8/tentacle_L1_4_9
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4/tentacle_L1_4_5/tentacle_L1_4_6/tentacle_L1_4_7/tentacle_L1_4_8/tentacle_L1_4_9/tentacle_L1_4_10
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4/tentacle_L1_4_5/tentacle_L1_4_6/tentacle_L1_4_7/tentacle_L1_4_8/tentacle_L1_4_9/tentacle_L1_4_10/tentacle_L1_4_11
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_4_1/tentacle_L1_4_2/tentacle_L1_4_3/tentacle_L1_4_4/tentacle_L1_4_5/tentacle_L1_4_6/tentacle_L1_4_7/tentacle_L1_4_8/tentacle_L1_4_9/tentacle_L1_4_10/tentacle_L1_4_11/tentacle_L1_4_12
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4/tentacle_L1_5_5
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4/tentacle_L1_5_5/tentacle_L1_5_6
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4/tentacle_L1_5_5/tentacle_L1_5_6/tentacle_L1_5_7
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4/tentacle_L1_5_5/tentacle_L1_5_6/tentacle_L1_5_7/tentacle_L1_5_8
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4/tentacle_L1_5_5/tentacle_L1_5_6/tentacle_L1_5_7/tentacle_L1_5_8/tentacle_L1_5_9
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4/tentacle_L1_5_5/tentacle_L1_5_6/tentacle_L1_5_7/tentacle_L1_5_8/tentacle_L1_5_9/tentacle_L1_5_10
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4/tentacle_L1_5_5/tentacle_L1_5_6/tentacle_L1_5_7/tentacle_L1_5_8/tentacle_L1_5_9/tentacle_L1_5_10/tentacle_L1_5_11
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_5_1/tentacle_L1_5_2/tentacle_L1_5_3/tentacle_L1_5_4/tentacle_L1_5_5/tentacle_L1_5_6/tentacle_L1_5_7/tentacle_L1_5_8/tentacle_L1_5_9/tentacle_L1_5_10/tentacle_L1_5_11/tentacle_L1_5_12
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4/tentacle_L1_6_5
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4/tentacle_L1_6_5/tentacle_L1_6_6
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4/tentacle_L1_6_5/tentacle_L1_6_6/tentacle_L1_6_7
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4/tentacle_L1_6_5/tentacle_L1_6_6/tentacle_L1_6_7/tentacle_L1_6_8
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4/tentacle_L1_6_5/tentacle_L1_6_6/tentacle_L1_6_7/tentacle_L1_6_8/tentacle_L1_6_9
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4/tentacle_L1_6_5/tentacle_L1_6_6/tentacle_L1_6_7/tentacle_L1_6_8/tentacle_L1_6_9/tentacle_L1_6_10
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4/tentacle_L1_6_5/tentacle_L1_6_6/tentacle_L1_6_7/tentacle_L1_6_8/tentacle_L1_6_9/tentacle_L1_6_10/tentacle_L1_6_11
+    m_Weight: 0
+  - m_Path: Root/Hips/spine_1/tentacle_L1_6_1/tentacle_L1_6_2/tentacle_L1_6_3/tentacle_L1_6_4/tentacle_L1_6_5/tentacle_L1_6_6/tentacle_L1_6_7/tentacle_L1_6_8/tentacle_L1_6_9/tentacle_L1_6_10/tentacle_L1_6_11/tentacle_L1_6_12
+    m_Weight: 0
+  - m_Path: Root/Hips/left_leg_up
+    m_Weight: 0
+  - m_Path: Root/Hips/left_leg_up/left_leg
+    m_Weight: 0
+  - m_Path: Root/Hips/left_leg_up/left_leg/left_foot
+    m_Weight: 0
+  - m_Path: Root/Hips/left_leg_up/left_leg/left_foot/left_toe
+    m_Weight: 0
+  - m_Path: Root/Hips/right_leg_up
+    m_Weight: 0
+  - m_Path: Root/Hips/right_leg_up/right_leg
+    m_Weight: 0
+  - m_Path: Root/Hips/right_leg_up/right_leg/right_foot
+    m_Weight: 0
+  - m_Path: Root/Hips/right_leg_up/right_leg/right_foot/right_toe
+    m_Weight: 0
+  - m_Path: polySurface1
+    m_Weight: 0
