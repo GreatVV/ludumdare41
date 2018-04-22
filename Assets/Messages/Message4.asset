@@ -17,7 +17,7 @@ MonoBehaviour:
     Text: 'That is not a job. Accounting is a job, driving Uber is a job, even writing
       Yelp reviews could be a job today! '
     Options:
-    - You know, that it`s very hard to find a decent job for a guy with a such unique
-      look.
+    - Its very hard to find a "normal' job for a guy with such unique qualities as
+      mine
   NextMessages:
   - {fileID: 11400000, guid: 77f2cf2968165104c97aa162a0c3d8b9, type: 2}

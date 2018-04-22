@@ -14,7 +14,7 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: BTW there is not only the hearth Jim has that is huge
+    Text: BTW there is not only Jim`s hearth that is huge
     Options:
     - wat the fuck
   NextMessages: []

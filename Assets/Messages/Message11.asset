@@ -15,11 +15,8 @@ MonoBehaviour:
   AnswerTime: 10
   Message:
     Text: The only one who is suffering is me worying about all these bitches trying
-      steal my man
+      to steal my man
     Options:
-    - "Okay, now you are just being rediculous *\u0432\u044B\u0431\u0435\u0440\u0438
-      \u044D\u043C\u043E\u0442\u0438\u043A\u043E\u043D \u043A\u043E\u0442\u043E\u0440\u044B\u0439\u043D\u0438
-      \u043D\u0430 \u0447\u0442\u043E \u043D\u0435 \u043F\u043E\u0432\u043B\u0438\u044F\u0435\u0442
-      \u0418\u041B\u041B\u042E\u0417\u0418\u042F \u0412\u042B\u0411\u041E\u0420\u0410*"
+    - Come on dont be stupid
   NextMessages:
   - {fileID: 11400000, guid: f18712d53e0631f4384f2b38661226bc, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: Why you dont text me dont pay attention to me nomore
+    Text: Why you dont pay attention to me anymore
     Options:
     - What the fuck do you mean? I aM TEXTING YOU RIGHT NOW
   NextMessages:

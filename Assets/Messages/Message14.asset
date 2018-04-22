@@ -16,6 +16,6 @@ MonoBehaviour:
   Message:
     Text: Okay i have a last question and promise me to answer honestly
     Options:
-    - 'ok '
+    - Alright
   NextMessages:
   - {fileID: 11400000, guid: df7b577a2342c5049bb619135ad5a6e0, type: 2}

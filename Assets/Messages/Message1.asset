@@ -14,7 +14,7 @@ MonoBehaviour:
   SendTime: 1
   AnswerTime: 15
   Message:
-    Text: Hey hon! <sprite="RobotBoyRollSprite" name="Batman">
+    Text: Hey hon!
     Options:
     - 'Hey sweety '
   NextMessages:

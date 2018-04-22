@@ -14,8 +14,8 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: I don't want to hear your voice ever again
+    Text: I don't want to hear your voice
     Options:
-    - Have you been drinking again?
+    - 'Wait, have you been drinking again? '
   NextMessages:
   - {fileID: 11400000, guid: 583ebc5d6cb58ab41a25593345143373, type: 2}

@@ -14,8 +14,8 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: Mistaken you? Mister, you are a big ass scary monster.
+    Text: Mistaken you? Mister, you are a big creepy monster.
     Options:
-    - Babe, I swear , I don`t know that girl
+    - Babe, I swear , I don`t know what you are talking about
   NextMessages:
   - {fileID: 11400000, guid: e75ba0958ea7c0546a5df1bdae99df0d, type: 2}

@@ -14,8 +14,15 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: '"answer my question right now, RICHARD THE DESTROYER OF THE WORDLS WHO
-      IS THAT ?"'
+    Text: '"answer my question right now, RICHARD THE DESTROYER OF THE WORDLS
+
+      WHO
+
+      IS
+
+      THAT
+
+      ?"'
     Options:
     - It`s an ancient embodiment of human horror and suffering from work.
   NextMessages:

@@ -14,9 +14,9 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: "\"-Alright\u2026 -Okay -So i guess i own you an aplogy. -Sure my love -It's
-      just CRAZY me being all suspicious again.  -Then WHO IS THAT GIRL? <sprite=\"Batman\">
-      YOU LYING PIECE OF SHIT\""
+    Text: "-Alright\u2026\n-Okay\n-So i guess i own you an aplogy.\n-Sure my love\n-It's
+      just CRAZY me being all suspicious again. \n-Then WHO IS THAT GIRL? *sends photo*
+      YOU LYING PIECE OF SHIT"
     Options:
     - Wait what? That's just my selfie.
   NextMessages:

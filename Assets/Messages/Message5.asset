@@ -14,9 +14,9 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: I should have listened to my mother. " Don`t date that giant squid, date
-      Jim, he is a lawyer"
+    Text: You know, my mama told me that i shouldn`t date a giant squid and to date
+      Jim instead
     Options:
-    - Please, don`t be like that , you know that I love you and do my best.
+    - What? Please, don`t be like that, you know that I love you and do my best.
   NextMessages:
   - {fileID: 11400000, guid: 0b943bb9d09b3d8448a2e5df34b69770, type: 2}

@@ -16,6 +16,6 @@ MonoBehaviour:
   Message:
     Text: 'DON`T YOU USE THE LORD`S NAME IN VAIN! '
     Options:
-    - Hon
+    - Honney :(
   NextMessages:
   - {fileID: 11400000, guid: 5316e3d46ed070440a0f6cbe0f582044, type: 2}

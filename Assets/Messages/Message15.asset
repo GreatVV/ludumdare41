@@ -16,6 +16,6 @@ MonoBehaviour:
   Message:
     Text: Swear on your Mama's life
     Options:
-    - Oh come on, Margeret
+    - Oh come on, Margaret
   NextMessages:
   - {fileID: 11400000, guid: ee6bf602f1439dc4e9f4287a9418be5b, type: 2}

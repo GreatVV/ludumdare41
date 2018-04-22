@@ -14,8 +14,8 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: Jim wouldnt have let his girl all by her self, he would make everything
-      to comfort her feelings
+    Text: Jim wouldnt have let his girl alone, he would make everything for her, to
+      comfort her feelings
     Options:
     - "What is Jim have to do with it? I'll call you back (\u0430 \u043E\u043D\u0430
       \u0441\u0431\u0440\u0430\u0441\u044B\u0432\u0430\u0435\u0442)"

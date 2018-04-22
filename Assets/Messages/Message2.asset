@@ -14,7 +14,7 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: We are out of cow heads, can you bring some?
+    Text: Can you come and take my mama to the golf club?
     Options:
     - I am busy at the moment
   NextMessages:

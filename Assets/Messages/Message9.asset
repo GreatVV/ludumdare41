@@ -17,6 +17,6 @@ MonoBehaviour:
     Text: 'THIS GIRL *sends the same zoomed in picture with some kind of wierd creature
       in the background* Don''t pretend like you dont know who she is. '
     Options:
-    - "How do you even know that it`s a \u201Cshe\u201D? "
+    - "How do you even know if that`s a \u201Cshe\u201D? "
   NextMessages:
   - {fileID: 11400000, guid: c21c8fbab05012747ae33956fd33bf08, type: 2}

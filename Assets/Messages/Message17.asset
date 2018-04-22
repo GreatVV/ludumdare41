@@ -14,11 +14,8 @@ MonoBehaviour:
   SendTime: 0.1
   AnswerTime: 10
   Message:
-    Text: You are always late from work I am standing all my myselg\f at home somethinmes
-      crying outloud
+    Text: You are always warking, making excuses, i feel abandoned
     Options:
-    - "THE FUCK IS WRONG WITHH YOU YOU CRAZY BITCH   I am sorry to hear that *\u0432\u044B\u0431\u0435\u0440\u0438\u0442\u0435
-      \u043A\u0430\u0440\u0442\u0438\u043D\u043A\u0443, \u0447\u0442\u043E\u0431\u044B
-      \u043E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C*"
+    - I am very sorry to hear that
   NextMessages:
   - {fileID: 11400000, guid: 3021ea395491e804d9f0b7b80ba1af64, type: 2}
